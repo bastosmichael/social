@@ -13,7 +13,7 @@
     "@prisma/client": "^6.19.0",
     "@types/lodash": "^4.17.23",
     "@types/node": "25.2.0",
-    "@types/react": "19.2.10",
+    "@types/react": "19.2.11",
     "@types/react-dom": "19.2.3",
     "axios": "^1.13.4",
     "bcrypt": "^6.0.0",
